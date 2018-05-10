@@ -19,3 +19,12 @@ body,
   flex-direction: column;
   font-size: .32rem;
 }
+
+.wrap .header {
+  height: .8rem;
+  background: orange;
+  color: #fff;
+  text-align: center;
+  line-height: .8rem;
+  font-size: .4rem;
+}
